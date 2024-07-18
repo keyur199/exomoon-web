@@ -1,0 +1,221 @@
+body{
+    color: white;
+    background-image: url(img/asset\ 6.jpeg);
+}
+header{
+    position: fixed;
+    margin-top: -290px;
+}
+.maindiv{
+    display: flex;
+}
+.logo{
+    height: 150px;
+    width: 120px;
+    object-fit:cover;
+    margin-left: 10px;
+
+}
+h1{
+    font-family: sans-serif;
+}
+.texi{
+    display: flex !important;
+    justify-content: space-between !important;
+    margin-top: 70px;
+    margin-left: 730px;
+    
+}
+.pp{
+    margin-left: 30px;
+    font-family: sans-serif;
+
+}
+.sec2{
+    margin-left: 570px;
+    margin-top: 300px;
+}
+.pp1{
+    font-family: sans-serif;
+
+}
+.ppp{
+    margin-left: 90px;
+    font-size: 28px;
+    font-family: sans-serif;
+
+}
+.sec3{
+    display: flex;
+}
+.simg2{
+    height: 400px;
+    width: 400px;
+    margin-left: 200px;
+    margin-top: 200px;
+    border-radius: 10px;
+}
+.stex3{
+    margin-top: 200px;
+    margin-left: 50px;
+}
+.h11{
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.btn1{
+    height: 100px;
+    width: 220px;
+    font-size: 15px;
+    background-color: transparent;
+    color: white;
+    border-radius: 10px;
+
+}
+.btn1:hover{
+    background-color: white;
+    color: black;
+    transition: 0.8s;
+}
+.texiii{
+    margin-top: 130px;
+    margin-left: 540px;
+    font-size: 55px;
+}
+.crd{
+    height: 300px;
+    width: 250px;
+    margin-left: 130px;
+    text-align: center;
+    box-shadow: 0px 0px 22px rgba(0, 0, 0, 0.7);
+    margin-top: 20px;
+    margin-top: 30px;   
+}
+
+.m_div{
+    display: flex;
+}
+.stex4{
+    text-align: center;
+}
+.sec5{
+    text-align: center;
+    font-size: 35px;
+}
+.crd2{
+    height: 150px;
+    width: 400px;
+    text-align: center;
+    box-shadow: 0px 0px 22px rgba(0, 0, 0, 0.7);
+    margin-left: 200px;
+    display: flex;
+}
+.pp5{
+    font-size: 22px;
+}
+.mcard{
+    display: flex;
+}
+.secimg{
+    border-radius: 200px;
+    height: 100px;
+}
+.secc6{
+    margin-left: 13px;
+    margin-top: 30px;
+}
+.texi6{
+  margin-left: 10px;
+  font-size: 13px;
+}
+.imgcard{
+    margin-left: 190px;
+    margin-top: 30px;
+    display: flex;
+}
+.msec6{
+    display: flex;
+    /* margin-left: ; */
+}
+.texi7{
+    margin-left: 50px;
+}
+.sec7{
+    text-align: center;
+    font-size: 33px;
+}
+.form{
+    margin-left: 280px;
+}
+input{
+    padding: 15px;
+    width: 300px;
+    border-radius: 12px;
+    background-color: transparent;
+    color: white;
+    
+}
+.texiimsg{
+    /* padding: 700px; */
+    height: 100px;
+}
+.btn{
+    height: 50px;
+    width: 335px;
+    border-radius: 30px;
+}
+.btn:hover{
+    background-color: transparent;
+    color: white;
+   border-color: white;
+   transition: 0.8s;
+
+}
+.crdd{
+    height: 380PX;
+    width: 350px;
+    box-shadow: 0px 0px 22px rgba(0, 0, 0, 0.7);
+    margin-left: 100px;
+    border-radius: 10px;
+    font-size: 15px;
+    padding: 30px;
+}
+.sec8{
+    display: flex;
+}
+.sec9{
+    display: flex;
+}
+.secc9{
+    margin-left: 20px;
+    font-size: 22px;
+}
+.seccc9{
+    margin-left: 20px;
+    font-size: 22px;
+    margin-top: 30px;
+}
+.secem{
+    margin-left: 20px;
+    font-size: 18px;
+    margin-top: 35px;
+}
+.lsecc{
+    margin-top: 20px;
+}
+.lbtn9{
+    margin-left: 130px;
+    /* margin-bottom: 70px; */
+    border-radius: 18px;
+    height: 40px;
+    width: 100px;
+    background-color: transparent;
+}
+.lbtn9:hover{
+    background-color: white;
+    color: black;
+}
+.texi9{
+    margin-left: 1070px;
+    margin-top: -30px;
+}
